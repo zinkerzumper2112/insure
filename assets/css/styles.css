@@ -1,0 +1,22 @@
+.col-md-3{
+    color: rgb(0, 0, 0) !important;
+    font-weight: bold !important;
+    font-family: Aldrich, sans-serif !important;
+}
+
+.col-md-6{
+    height: 620px;
+}
+
+.col-md-7{
+    width: 906.7px;
+    margin-top: -30%;
+    margin-left: -1%;
+}
+
+.textr{
+    font-family: 'Bona Nova', serif;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+
